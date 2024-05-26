@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cadastro
+
+aws:
+  s3:
+    endpoint: http://s3.localhost.localstack.cloud:4566
